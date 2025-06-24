@@ -57,3 +57,10 @@ Bu proje, React Native ve Expo kullanılarak geliştirilmiş bir restoran arama 
 - React Navigation
 - Axios
 - Yelp Fusion API
+
+## Uygulama Resimleri
+[image alt](https://github.com/meturk0/RestaurantMobileApp/blob/9001754b97038cdb873cc97b3924fdb8f88ee5a7/1.png)
+[image alt](https://github.com/meturk0/RestaurantMobileApp/blob/9001754b97038cdb873cc97b3924fdb8f88ee5a7/2.png)
+[image alt](https://github.com/meturk0/RestaurantMobileApp/blob/9001754b97038cdb873cc97b3924fdb8f88ee5a7/3.png)
+[image alt](https://github.com/meturk0/RestaurantMobileApp/blob/9001754b97038cdb873cc97b3924fdb8f88ee5a7/4.png)
+
